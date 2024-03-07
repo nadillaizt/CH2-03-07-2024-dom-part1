@@ -22,8 +22,9 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
-  color: #43a182;
+  font-size: 3rem;
+  color: white;
+  font-weight: bold;
   font-family: "Indie Flower", cursive;
 }
 
